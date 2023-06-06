@@ -28,8 +28,8 @@ if __name__ == "__main__":
          by passion, and a Computational physicist
          by profession!
           
-     ◍- I hold a bachelor's degree in Physics and 
-         a master's in Computer science.
+     ◍- I hold a master's degree in Computer science and
+         a bachelor's in Physics.
 
 
 
