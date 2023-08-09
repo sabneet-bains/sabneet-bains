@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 ______________________________________
 _____/ Professional Highlights \_____
-_____________________________________________________________________________________________________________
+___________________________________________________________________________________________________________
 
       🞧 Quantum computing:
 
@@ -74,13 +74,14 @@ ________________________________________________________________________________
            in a collaborative workflow encompassing Blender, C#, Unity, and GitHub, 
            showcasing creative prowess and effective teamwork.
 
-̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ 
+̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ 
 
 
-    ⬢- All these experiences have empowered me to design high-quality, secure, efficient software solutions 
-        spanning diverse domains while solving complex problems that require interdisciplinary knowledge and 
-        skills. I thrive on continuous learning, foster collaboration within diverse teams, and contribute to 
-        advancing knowledge and society.
+    ⬢- All these experiences have empowered me to design high-quality, secure,
+        efficient software solutions spanning diverse domains while solving
+        complex problems that require interdisciplinary knowledge and skills.
+        I thrive on continuous learning, foster collaboration within diverse teams,
+        and contribute to advancing knowledge and society.
 
 
     ⬢- Feel free to connect with me to discuss potential opportunities or collaborations!
