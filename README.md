@@ -6,7 +6,7 @@ def about_me():
 
     who_am_i = swagger.makeSummary()
     what_have_i_achieved = swagger.getSomeExperience()
-    what_are_my_expertise = introduction.getReleventSkills(what_have_i_achieved)
+    what_are_my_expertise = introduction.getRelevantSkills(what_have_i_achieved)
 
     description = [who_am_i, what_have_i_achieved, what_are_my_expertise]
 
