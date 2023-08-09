@@ -80,7 +80,9 @@ ________________________________________________________________________________
     ⬢- All these experiences have empowered me to design high-quality, secure,
         efficient software solutions spanning diverse domains while solving
         complex problems that require interdisciplinary knowledge and skills.
-        I thrive on continuous learning, foster collaboration within diverse teams,
+
+
+    ⬢- I thrive on continuous learning, foster collaboration within diverse teams,
         and contribute to advancing knowledge and society.
 
 
