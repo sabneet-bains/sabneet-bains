@@ -45,6 +45,7 @@ ______________________________________
 _____/ Professional Highlights \_____
 __________________________________________________________________________________________________________
 
+
       🞧 Quantum Computing:
 
          ▸ Integrated Quantum Fourier Transform (QFT) into Shor’s algorithm using Google’s Cirq,
