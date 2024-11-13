@@ -31,8 +31,8 @@ if __name__ == "__main__":
 
 ⚡ What do quantum computing, artificial intelligence, nonlinear dynamics, and video game development have in common?
 
-         ⩍  They're all integral parts of me——a Quantum Computing Specialist, AI Engineer,
-            and Computational Physicist passionate about interdisciplinary research!
+    ○  They're all integral parts of me——a Quantum Computing Specialist, AI Engineer,
+       and Computational Physicist passionate about interdisciplinary research!
 
 
 ————————————————
