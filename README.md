@@ -50,63 +50,26 @@ ________________________________________________________________________________
          ▸ Integrated Quantum Fourier Transform (QFT) into Shor’s algorithm using Google’s Cirq,
            optimizing for qubit coherence and gate fidelity.
 
-         ▸ Advanced quantum AI models by merging quantum algorithms with machine learning techniques.
+         ▸ Developed advanced quantum AI models by merging quantum algorithms with machine learning techniques.
 
 
       🞧 Artificial Intelligence:
 
-         ▸ Designed computer vision systems with CNNs and advanced segmentation techniques, 
-           boosting classification accuracy by 10%.
+         ▸ Designed computer vision and neuroimaging systems with CNNs and advanced segmentation techniques,
+           boosting classification accuracy by 10% and enhancing image analysis capabilities.
 
-         ▸ Optimized deep learning frameworks for object detection and motion tracking using 
-           discrete Fourier transforms.
-
-
-      🞧 Complex Systems Modeling:
-
-         ▸ Developed a COVID-19 transmission simulator for a 25k-person suburb using 2D cellular 
-           automaton and SIQR models in MATLAB, highlighting quarantine efficacy.
-
-         ▸ Modeled large-scale nonlinear and chaotic phenomena with stochastic and Monte Carlo methods.
+         ▸ Created multi-dimensional Izhikevich spiking neural networks and conducted spike synchrony analysis,
+           advancing neural computation models and enhancing AI system capabilities.
 
 
-      🞧 Human-Machine Interaction:
+      🞧 Computational Physics:
 
-         ▸ Engineered voice-controlled dialog systems for Qt interfaces over secure UDP connections.
+         ▸ Developed a COVID-19 transmission simulator for a 25k-person suburb using 2D cellular
+           automaton and SIQR models in MATLAB, highlighting quarantine efficacy and modeling
+           large-scale nonlinear phenomena with stochastic and Monte Carlo methods.
 
-         ▸ Developed NLP-based military interfaces for LiDAR sensors and finite element analyses.
-
-
-      🞧 Video Game Development:
-
-         ▸ Co-developed a 3D adaptation of Clue® using Blender, C#, Unity, and GitHub, optimizing assets 
-           for performance and visual clarity.
-
-         ▸ Streamlined agile workflows, reducing project timelines by 25% and bugs by 40%.
-
-
-      🞧 Computational Neurophysics:
-
-         ▸ Created multi-dimensional Izhikevich spiking neural networks and conducted spike synchrony analysis.
-
-         ▸ Authored a thesis on neural synchronicity, exploring neural excitation and inhibition dynamics.
-
-
-      🞧 R&D in Defense Technologies:
-
-         ▸ Developed applied technology solutions in Materials, Physics, and Computational Technologies,
-           supporting mission-critical objectives.
-
-         ▸ Optimized fluid dynamics simulations, reducing computation time by 95% with O(N) complexity.
-
-         ▸ Initiated gas leak detection systems integrating geospatial APIs with computer vision.
-
-
-      🞧 Neuroscience Research:
-
-         ▸ Developed neuroimaging algorithms in MATLAB, Python, VBA, and Bash for analyzing NMRI and PET scan data.
-
-         ▸ Implemented automation solutions, accelerating research workflows by over 70% and enhancing efficiency.
+         ▸ Optimized fluid dynamics simulations, reducing computation time by 95% with O(N) complexity
+           and implemented automation solutions, accelerating research workflows by over 70% and enhancing efficiency.
 
 
 ______________________________________
