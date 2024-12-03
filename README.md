@@ -92,10 +92,10 @@ if __name__ == "__main__":
 ———————————
 
 
-⚡ I excel in continuous learning, foster collaboration within diverse teams,
-    and contribute to advancing knowledge and society.
+⚡ I excel at continuous learning, fostering collaboration within diverse teams,
+    and contributing to the advancement of knowledge and society. 
 
-⚡ Let's connect to explore potential opportunities or collaborations that drive technological progress!
+⚡ Let’s connect to explore potential opportunities and collaborations that drive technological progress!
 
  
 ```
