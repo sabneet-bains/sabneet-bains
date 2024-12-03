@@ -20,7 +20,7 @@ if __name__ == "__main__":
 ```
 
 ```python
->_  python3 about.py █   
+>_  python3 my_vibe.py █   
 ```
 
 ```python
