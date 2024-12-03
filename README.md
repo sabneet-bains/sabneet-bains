@@ -1,22 +1,22 @@
 ```python
-import introduction
-from flattery import swagger
+import intro_verse
+from trend_hub import flex
 
-def about_me():
+def my_story():
 
-    summary = swagger.makeSummary()
-    achievements = swagger.getSomeExperience()
-    expertise = introduction.getRelevantSkills(achievements)
+    bio = flex.createBio()
+    wins = flex.collectWins()
+    skills = intro_verse.grabSkills(wins)
         
-    profile_description = [summary, achievements, expertise]
-    closing = swagger.conclude(profile_description)
-    profile_description.append(closing)
+    profile_story = [bio, wins, skills]
+    sign_off = flex.wrapUp(profile_story)
+    profile_story.append(sign_off)
     
-    for section in profile_description:
-        print(section)
+    for part in profile_story:
+        print(part)
 
 if __name__ == "__main__":
-    about_me()
+    my_story()
 ```
 
 ```python
@@ -24,79 +24,78 @@ if __name__ == "__main__":
 ```
 
 ```python
+——————————
+| MY BIO |
+——————————
+
+
+⚡ What do quantum computing, AI, nonlinear dynamics, and video game development have in common?
+
+    ○  They’re all part of my DNA as a Quantum Computing Specialist, AI Engineer, and
+       Computational Physicist: I’m all about breaking boundaries and embracing interdisciplinarity!
+
+
 ———————————
-| Summary |
+| MY WINS |
 ———————————
 
 
-⚡ What do quantum computing, artificial intelligence, nonlinear dynamics, and video game development have in common?
-
-    ○  They're all integral parts of me——a Quantum Computing Specialist, AI Engineer,
-       and Computational Physicist passionate about interdisciplinary research!
-
-
-————————————————
-| Achievements |
-————————————————
-
-
-⚡ Over the past decade, I've led interdisciplinary research in
+⚡ Over the last decade, I've led research in
 
     ○  QUANTUM COMPUTING,
     ○  ARTIFICIAL INTELLIGENCE and
     ○  COMPUTATIONAL PHYSICS,
  
-       From implementing encryption-breaking quantum algorithms
-       to developing neural networks and immersive technologies...
-       ——I thrive at the intersection of innovation and practicality.
+       From cracking encryption with quantum algorithms
+       to creating neural networks and immersive tech...
+       ——I thrive at the cutting edge where innovation meets practicality.
 
 
-⚡ Committed to advancing hybrid quantum-classical AI systems, I align with pioneering
-   computational and quantum sciences to drive transformative breakthroughs through collaboration.
+⚡ I’m dedicated to pushing the limits of hybrid quantum-classical AI, aligning with
+    leading-edge computational and quantum sciences to drive breakthroughs through teamwork.
 
 
 —————————————
-| Expertise |
+| My Skills |
 —————————————
 
 
   🞧 Quantum Computing:
 
-         ○ Integrated Quantum Fourier Transform (QFT) into Shor’s algorithm using Google’s Cirq,
-           optimizing for qubit coherence and gate fidelity.
+         ○ Plugged in Quantum Fourier Transform (QFT) to Shor’s algorithm with Google’s Cirq,
+           maximizing qubit coherence and gate fidelity.
 
-         ○ Developed advanced quantum AI models by merging quantum algorithms with machine learning techniques.
+         ○ Merged quantum algorithms with machine learning to build advanced quantum AI models.
 
 
   🞧 Artificial Intelligence:
 
-         ○ Designed computer vision and neuroimaging systems with CNNs and advanced segmentation techniques,
-           boosting classification accuracy by 10% and enhancing image analysis capabilities.
+         ○ Engineered computer vision and neuroimaging systems with CNNs and top-tier segmentation techniques,
+           boosting classification accuracy by 10% and upgrading image analysis.
 
-         ○ Created multi-dimensional Izhikevich spiking neural networks and conducted spike synchrony analysis,
-           advancing neural computation models and enhancing AI system capabilities.
+         ○ Built multi-dimensional Izhikevich spiking neural networks and analyzed spike synchrony, advancing
+           neural computation models and supercharging my AI capabilities.
 
 
   🞧 Computational Physics:
 
-         ○ Developed a COVID-19 transmission simulator for a 25k-person suburb using 2D cellular
-           automaton and SIQR models in MATLAB, highlighting quarantine efficacy and modeling
+         ○ Simulated COVID-19 transmission in a 25k-person suburb using 2D cellular automaton
+           and SIQR models in MATLAB, highlighting quarantine efficacy and modeling
            large-scale nonlinear phenomena with stochastic and Monte Carlo methods.
 
-         ○ Optimized fluid dynamics simulations, reducing computation time by 95% with O(N) complexity
-           and implemented automation solutions, accelerating research workflows by over 70% and enhancing efficiency.
+         ○ Optimized fluid dynamics simulations, slashing computation time by 95% with O(N) complexity
+           and implementing automation solutions, accelerating research workflows by over 70%.
 
 
-———————————
-| Closing |
-———————————
+—————————————————
+| Let's Connect |
+—————————————————
 
 
-⚡ I excel at continuous learning, fostering collaboration within diverse teams,
-    and contributing to the advancement of knowledge and society. 
+⚡ I’m all about continuous learning, fostering innovation within diverse teams,
+   and contributing to the advancement of knowledge and society.
 
-⚡ Let’s connect to explore potential opportunities and collaborations that drive technological progress!
-
+⚡ Let’s connect and explore opportunities to drive tech progress together!
  
 ```
 ```python
