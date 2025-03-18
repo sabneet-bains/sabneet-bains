@@ -104,6 +104,6 @@ if __name__ == "__main__":
 
 
 <!---
-sabneet95/sabneet95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sabneet-bains/sabneet-bains is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
