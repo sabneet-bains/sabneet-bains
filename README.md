@@ -1,3 +1,13 @@
+<p align="center">
+
+[![AI](https://img.shields.io/badge/Domain-Artificial_Intelligence-blue?logo=ai)](#)
+[![Quantum](https://img.shields.io/badge/Field-Quantum_Computing-purple?logo=quantum-computing)](#)
+[![Physics](https://img.shields.io/badge/Research-Computational_Physics-lightgrey?logo=atom)](#)
+[![Defense](https://img.shields.io/badge/Application-Defense_R&D-red?logo=shield)](#)
+[![License](https://img.shields.io/badge/License-MIT-green)](#)
+
+</p>
+
 ```python
 import intro_verse
 from trend_hub import flex
