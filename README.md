@@ -1,7 +1,7 @@
-<a href="#"><img src="https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat" width="190"></a>
-<a href="#"><img src="https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat" width="190"></a>
-<a href="#"><img src="https://img.shields.io/badge/Computational%20Physics-6E7781?style=flat" width="203"></a>
-<a href="#"><img src="https://img.shields.io/badge/Defense%20R%26D-2EA043?style=flat" width="126"></a>
+[![AI](https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat)](#)
+[![Quantum](https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat)](#)
+[![Physics](https://img.shields.io/badge/Computational%20Physics-6E7781?style=flat)](#)
+[![Defense](https://img.shields.io/badge/Defense%20R%26D-2EA043?style=flat)](#)
 
 ```python
 import intro_verse
