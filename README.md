@@ -29,25 +29,24 @@ if __name__ == "__main__":
 >_  python3 my_vibe.py ⚡█ 
 ```
 
+
+<br> <details open>
+<summary><b> MY BIO </b></summary> 
+
 ```python
-——————————
-▌ MY BIO ▐
-——————————
-
-
 ⚡ What do quantum computing, AI, nonlinear dynamics, and video game development
    have in common?
 
     ›  They’re all part of my DNA as a Quantum Computing & AI Researcher. I’m a 
        research-driven engineer bridging theoretical algorithms and reproducible,
        high-performance scientific codebases — where innovation meets reliability!
+```
+</details>
 
+<br> <details open>
+<summary><b> MY WINS </b></summary>
 
-———————————
-▌ MY WINS ▐
-———————————
-
-
+```python
 ⚡ Over the last decade, I've led research in
 
     ›  QUANTUM COMPUTING,
@@ -62,14 +61,15 @@ if __name__ == "__main__":
 ⚡ I’m dedicated to pushing the limits of hybrid quantum-classical AI and
     defense-aligned R&D — bridging physics, AI, and quantum systems to drive
     breakthroughs through teamwork and reproducible science.
+```
+</details>
 
 
-—————————————
-▌ MY SKILLS ▐
-—————————————
+<br> <details open>
+<summary><b> MY SKILLS </b></summary>
 
-
-  🧮 Quantum Computing:
+```python
+  ⚛️ Quantum Computing:
 
          › Implemented Quantum Fourier Transform (QFT) within Shor’s algorithm and
            validated QAOA/VQE circuits using Google’s Cirq, maximizing qubit coherence
@@ -91,7 +91,7 @@ if __name__ == "__main__":
            synchrony, advancing biologically inspired AI computation.
 
 
-  ⚙️ Computational Physics:
+  🌊 Computational Physics:
 
          › Simulated COVID-19 SIQR dynamics for a 25 k-agent community in MATLAB,
            highlighting quarantine efficacy and large-scale nonlinear effects using
@@ -111,23 +111,32 @@ if __name__ == "__main__":
 
          › Champion reproducible, cross-disciplinary engineering that connects
            quantum, AI, and physics for mission-critical innovation.
+```
 
+> Explore my work:
+> [Quantum-Computing](https://github.com/sabneet-bains/Quantum-Computing#%EF%B8%8F-quantum-computing-repository) •
+> [Artificial-Intelligence](https://github.com/sabneet-bains/Artificial-Intelligence) •
+> [Nonlinear-Dynamics](https://github.com/sabneet-bains/Nonlinear-Dynamics#-nonlinear-dynamics-repository)
+</details>
 
-—————————————————
-▌ LET’S CONNECT ▐
-—————————————————
+<br> <details open>
+<summary><b> MY MISSION </b></summary>
 
-
+```python
 ⚡ I’m passionate about advancing reproducible science through interdisciplinary
    collaboration, continuous learning, and innovative teamwork.
 
+
 ⚡ Let’s connect and explore opportunities to accelerate the frontier together!
 
-
 >  🔗  LinkedIn: https://www.linkedin.com/in/sabneet-bains  
->  🔗  GitHub:   https://github.com/sabneet-bains
+>  🔗  GitHub:   https://github.com/sabneet-bains  
 >  🔗  YouTube:  https://www.youtube.com/@sabneetbains
-
 ```
+</details>
+
+<br>
+
 ```python
 >_ █   
+```
