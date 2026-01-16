@@ -36,9 +36,9 @@ My work explores physics-inspired and quantum methods for building intelligent s
 
 ## 🔬 What I Actually Do
 
-• Scientific computing and physics-based simulation in Python, MATLAB, and C++  
-• Machine learning and neural modeling for high-dimensional, structured data  
-• Quantum algorithms, hybrid quantum-classical workflows, and research tooling  
+- Scientific computing and physics-based simulation in Python, MATLAB, and C++  
+- Machine learning and neural modeling for high-dimensional, structured data  
+- Quantum algorithms, hybrid quantum-classical workflows, and research tooling  
 
 <div align="right">
 
@@ -48,10 +48,10 @@ My work explores physics-inspired and quantum methods for building intelligent s
 
 ## 🧠 Research Philosophy
 
-Reproducibility.  
-Transparency.  
-Hybrid thinking.  
-Engineering rigor.
+- Reproducibility
+- Transparency
+- Hybrid thinking
+- Engineering rigor
 
 <div align="right">
 
