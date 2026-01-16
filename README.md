@@ -1,142 +1,131 @@
+<div align="center"><a name="readme-top"></a>
+
 [![AI](https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat)](#)
 [![Quantum](https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat)](#)
 [![Physics](https://img.shields.io/badge/Computational%20Physics-6E7781?style=flat)](#)
 [![Defense](https://img.shields.io/badge/Defense%20R%26D-2EA043?style=flat)](#)
 
-```python
-import intro_verse
-from trend_hub import flex
+**From equations to executable systems.**
 
-def my_story():
+<sup>*I build reproducible computational tools for understanding and engineering complex physical and intelligent systems.*</sup>
 
-    bio = flex.createBio()
-    wins = flex.collectWins()
-    skills = intro_verse.grabSkills(wins)
-    mission = flex.addMission()
-        
-    profile_story = [bio, wins, skills, mission]
-    sign_off = flex.wrapUp(profile_story)
-    profile_story.append(sign_off)
-    
-    for part in profile_story:
-        print(part)
+</div>
 
-if __name__ == "__main__":
-    my_story()
-```
-
-```python
->_  python3 my_vibe.py ⚡█ 
-```
+> [!NOTE]
+> <sup>This profile is part of a broader research portfolio spanning quantum algorithms, scientific machine learning, and physics based simulation.</sup>
 
 
-<br> <details open>
-<summary><b> MY BIO </b></summary> 
+## 📘 Overview
 
-```python
-⚡ What do quantum computing, AI, nonlinear dynamics, and video game development
-   have in common?
+I am a research engineer working at the intersection of artificial intelligence, physics based simulation, and quantum computing.
 
-    ›  They’re all part of my DNA as a Quantum Computing & AI Researcher. I’m a 
-       research-driven engineer bridging theoretical algorithms and reproducible,
-       high-performance scientific codebases — where innovation meets reliability!
-```
-</details>
+My background spans computational neurophysics, nonlinear dynamics, high performance scientific computing, and quantum software, with experience across academic labs, pharmaceutical research, and defense R&D. I focus on building transparent, testable, and reproducible systems that make complex behavior measurable.
 
-<br> <details open>
-<summary><b> MY WINS </b></summary>
+<div align="right">
 
-```python
-⚡ Over the last decade, I've led research in
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-    ›  QUANTUM COMPUTING,
-    ›  ARTIFICIAL INTELLIGENCE, and
-    ›  COMPUTATIONAL PHYSICS,
-
-       From cracking encryption with quantum algorithms
-       to creating neural networks and immersive tech...
-       ——I thrive at the cutting edge where innovation meets practicality.
+</div>
 
 
-⚡ I’m dedicated to pushing the limits of hybrid quantum-classical AI and
-    defense-aligned R&D — bridging physics, AI, and quantum systems to drive
-    breakthroughs through teamwork and reproducible science.
-```
-</details>
+## 🎯 Research Focus
+
+- **Hybrid AI Systems**  
+  Machine learning, symbolic reasoning, and statistical inference for scientific and engineering problems.
+
+- **Physics Based Simulation**  
+  Neural dynamics, PDE driven systems, stochastic models, and nonlinear processes.
+
+- **Quantum Algorithms**  
+  Deutsch, Grover, Shor with QFT, and hybrid quantum classical workflows.
+
+- **Research Engineering**  
+  Building validated pipelines, visualizations, and tools that support real world scientific discovery.
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
 
 
-<br> <details open>
-<summary><b> MY SKILLS </b></summary>
+## ⚙️ Technical Domains
 
-```python
-  ⚛️ Quantum Computing:
+| Domain | What I Build |
+|------|--------------|
+| **🧠 AI & ML** | Computer vision, neural models, generative systems, symbolic–statistical hybrids |
+| **🌀 Complex Systems** | Neural synchrony, nonlinear dynamics, stochastic and agent based models |
+| **⚛️ Quantum** | QFT, Grover, Shor, hybrid QML pipelines, research tooling |
+| **🛡 Applied R&D** | Secure systems, simulation platforms, defense and aerospace research software |
 
-         › Implemented Quantum Fourier Transform (QFT) within Shor’s algorithm and
-           validated QAOA/VQE circuits using Google’s Cirq, maximizing qubit coherence
-           and gate fidelity under simulated decoherence.
+<div align="right">
 
-         › Fused quantum algorithms with machine learning to construct hybrid
-           quantum–AI models for optimization and pattern discovery.
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-
-  🤖 Artificial Intelligence:
-
-         › Engineered computer-vision and neuroimaging pipelines (OpenCV + custom CNN),
-           boosting classification accuracy by ~10 % in real-world lighting.
-
-         › Developed generative-AI and NLP prototypes with PyTorch, modeling perception
-           and reasoning across domains.
-
-         › Built multi-dimensional Izhikevich spiking neural networks and analyzed spike
-           synchrony, advancing biologically inspired AI computation.
+</div>
 
 
-  🌊 Computational Physics:
+## 🔬 What I Actually Do
 
-         › Simulated COVID-19 SIQR dynamics for a 25 k-agent community in MATLAB,
-           highlighting quarantine efficacy and large-scale nonlinear effects using
-           stochastic and Monte-Carlo methods.
+- Build scientific computing pipelines in Python, MATLAB, and C++ for large scale modeling and simulation.  
+- Design machine learning systems for perception, classification, and analysis of high dimensional data.  
+- Implement quantum algorithms and research tooling for algorithmic validation and experimentation.  
+- Create visualizations and interactive tools that make abstract models interpretable.  
 
-         › Optimized fluid-dynamics simulations (MATLAB → C++/MEX), slashing computation
-           time by 15× through profiling-driven vectorization and automated validation.
+<div align="right">
 
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-  🚀 Applied R&D + Defense:
-
-         › Delivered secure UDP voice-control prototypes integrated with legacy UIs
-           with zero code changes, enabling real-time interaction in aerospace systems.
-
-         › Co-developed LiDAR machine-learning pipelines for airborne sensing and
-           rapid-prototyping workflows across materials, physics, and computation.
-
-         › Champion reproducible, cross-disciplinary engineering that connects
-           quantum, AI, and physics for mission-critical innovation.
-```
-
-> Explore my work:
-> [Quantum-Computing](https://github.com/sabneet-bains/Quantum-Computing#%EF%B8%8F-quantum-computing-repository) •
-> [Artificial-Intelligence](https://github.com/sabneet-bains/Artificial-Intelligence) •
-> [Nonlinear-Dynamics](https://github.com/sabneet-bains/Nonlinear-Dynamics#-nonlinear-dynamics-repository)
-</details>
-
-<br> <details open>
-<summary><b> MY MISSION </b></summary>
-
-```python
-⚡ I’m passionate about advancing reproducible science through interdisciplinary
-   collaboration, continuous learning, and innovative teamwork.
+</div>
 
 
-⚡ Let’s connect and explore opportunities to accelerate the frontier together!
+## 🧭 Explore My Work
 
->  🔗  LinkedIn: https://www.linkedin.com/in/sabneet-bains  
->  🔗  GitHub:   https://github.com/sabneet-bains  
->  🔗  YouTube:  https://www.youtube.com/@sabneetbains
-```
-</details>
+- **⛓️‍💥 Reverse Engineering**  
+  https://github.com/sabneet-bains/Reverse-Engineering  
 
-<br>
+- **⚛️ Quantum Computing**  
+  https://github.com/sabneet-bains/Quantum-Computing  
 
-```python
->_ █   
-```
+- **🌀 Nonlinear Dynamics**  
+  https://github.com/sabneet-bains/Nonlinear-Dynamics  
+
+- **🧠 Artificial Intelligence**  
+  https://github.com/sabneet-bains/Artificial-Intelligence  
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
+
+
+## 🧠 Research Philosophy
+
+| Principle | Meaning |
+|--------|---------|
+| **Reproducibility** | Results must be independently verifiable |
+| **Transparency** | Models should reveal their structure |
+| **Hybrid Thinking** | Physics, AI, and computation belong together |
+| **Engineering Rigor** | Research code should behave like production systems |
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
+
+
+
+<div align="center">
+
+## 
+
+### 👤 Sabneet Bains
+
+*Quantum × AI × Scientific Computing*   
+[LinkedIn](https://www.linkedin.com/in/sabneet-bains/) • [GitHub](https://github.com/sabneet-bains) • [YouTube](https://www.youtube.com/@sabneetbains)
+
+<sub>“Complex systems deserve honest models.”</sub>
+
+</div>
