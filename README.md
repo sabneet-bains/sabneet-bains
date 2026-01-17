@@ -11,7 +11,7 @@
 
 I am a research engineer working at the intersection of artificial intelligence, physics-based simulation, and quantum computing. I design, implement, and validate computational systems ranging from machine learning pipelines and nonlinear dynamics models to quantum algorithms and research tooling.
 
-My work explores physics-inspired and quantum methods for building intelligent systems that can learn, reason, and generalize beyond purely classical approaches.
+My work applies physics-inspired and quantum methods for building intelligent systems that can learn, reason, and generalize beyond purely classical approaches.
 
 <div align="right">
 
