@@ -21,12 +21,14 @@ My work explores physics-inspired and quantum methods for building intelligent s
 
 ## ⚙️ Technical Domains
 
-| Domain | What I Build |
-|------|--------------|
-| **🤖 AI & ML** | Computer vision systems, neural models, applied ML pipelines, symbolic–statistical hybrids |
-| **🦋 Complex Systems** | Neural synchrony, nonlinear dynamics, stochastic and agent-based simulations |
-| **🔮 Quantum** | QFT, Grover, Shor, hybrid quantum–classical workflows, quantum research tooling |
-| **🛡 Applied R&D** | Secure systems, simulation platforms, defense and aerospace research software |
+<br>
+
+| Domain | Focus |
+|:--|:--|
+| **AI & Machine Learning** | Computer vision, neural models, applied ML pipelines, symbolic–statistical hybrids |
+| **Complex Systems** | Neural synchrony, nonlinear dynamics, stochastic and agent-based simulations |
+| **Quantum Computing** | QFT, Grover, Shor, hybrid quantum–classical workflows, research tooling |
+| **Applied R&D** | Secure systems, simulation platforms, defense and aerospace software |
 
 <div align="right">
 
