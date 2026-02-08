@@ -9,9 +9,9 @@
 
 ## 📘 Overview
 
-I am a research engineer working at the intersection of artificial intelligence, physics-based simulation, and quantum computing. I design, implement, and validate computational systems ranging from machine learning pipelines and nonlinear dynamics models to quantum algorithms and research tooling.
+I’m a research engineer building computational systems across artificial intelligence, physics-based simulation, and quantum computing. I design, implement, and validate systems ranging from machine learning pipelines and nonlinear dynamics models to quantum algorithms and research tools.
 
-My work applies physics-inspired and quantum methods for building intelligent systems that can learn, reason, and generalize beyond purely classical approaches.
+My work applies physics-inspired and quantum methods to build intelligent systems that learn, reason, and generalize beyond purely classical approaches.
 
 <div align="right">
 
@@ -28,7 +28,7 @@ My work applies physics-inspired and quantum methods for building intelligent sy
 | **AI & Machine Learning** | Computer vision, neural models, applied ML pipelines, symbolic–statistical hybrids |
 | **Complex Systems** | Neural synchrony, nonlinear dynamics, stochastic and agent-based simulations |
 | **Quantum Computing** | QFT, Grover, Shor, hybrid quantum–classical workflows, research tooling |
-| **Applied R&D** | Secure systems, simulation platforms, defense and aerospace software |
+| **Applied R&D** | Secure systems, simulation platforms, aerospace and defense software |
 
 <div align="right">
 
@@ -40,7 +40,7 @@ My work applies physics-inspired and quantum methods for building intelligent sy
 
 - Scientific computing and physics-based simulation in Python, MATLAB, and C++  
 - Machine learning and neural modeling for high-dimensional, structured data  
-- Quantum algorithms, hybrid quantum-classical workflows, and research tooling  
+- Quantum algorithms and hybrid quantum–classical research workflows 
 
 <div align="right">
 
@@ -50,10 +50,9 @@ My work applies physics-inspired and quantum methods for building intelligent sy
 
 ## 🧠 Research Philosophy
 
-- Reproducibility
-- Transparency
-- Hybrid thinking
-- Engineering rigor
+- Reproducibility and transparency  
+- Hybrid thinking across models and methods  
+- Engineering rigor under real-world constraints  
 
 <div align="right">
 
