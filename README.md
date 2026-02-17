@@ -1,8 +1,8 @@
 <div align="center"><a name="readme-top"></a>
 
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat)](#overview)
-[![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat)](#technical-domains)
-[![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-57606A?style=flat)](#what-i-actually-do)
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat)](https://github.com/sabneet-bains/Computer-Vision#%EF%B8%8F-computer-vision--classical--deep-learning-systems)
+[![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat)](https://github.com/sabneet-bains/Quantum-Computing#%EF%B8%8F-quantum-computing--multi-sdk-algorithms--simulations)
+[![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-57606A?style=flat)](https://github.com/sabneet-bains/Nonlinear-Dynamics#-nonlinear-dynamics--simulation--visualization-suite)
 [![Research Resume](https://img.shields.io/badge/Research%20Resume-2DA44E?style=flat)](https://sabneet-bains.github.io/assets/resume.pdf)
 
 </div>
@@ -16,6 +16,8 @@ I translate research ideas into validated systems with measurable performance.
 
 I optimize for numerical reliability, reproducibility, and real-world constraints.
 
+<br>
+
 <a id="technical-domains"></a>
 ## ⚙️ Technical Domains
 
@@ -26,12 +28,16 @@ I optimize for numerical reliability, reproducibility, and real-world constraint
 | **Quantum Computing** | QFT, Grover, Shor, and hybrid quantum-classical workflows |
 | **Applied R&D** | Secure simulation software for aerospace and defense contexts |
 
+<br>
+
 <a id="what-i-actually-do"></a>
 ## 🔬 What I Actually Do
 
 - Scientific computing and physics-based simulation in Python, MATLAB, and C++
 - Model training, error analysis, and evaluation for high-dimensional, structured data
 - Quantum algorithm prototyping and hybrid quantum-classical workflows
+
+<br>
 
 ## 🧠 Research Philosophy
 
