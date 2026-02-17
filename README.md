@@ -47,6 +47,6 @@ I optimize for numerical reliability, reproducibility, and real-world constraint
 
 <div align="right">
 
-[![Back to Top](https://img.shields.io/badge/-%E2%AB%9B%20TO%20TOP-0d1117?style=flat)](#readme-top)
+[![Back to Top](https://img.shields.io/badge/-%E2%AB%9B%20TO%20TOP-0d1117?style=flat)](https://github.com/sabneet-bains)
 
 </div>
