@@ -3,7 +3,7 @@
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-1F6FEB?style=flat)](https://github.com/sabneet-bains/Computer-Vision#%EF%B8%8F-computer-vision--classical--deep-learning-systems)
 [![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-8957E5?style=flat)](https://github.com/sabneet-bains/Quantum-Computing#%EF%B8%8F-quantum-computing--multi-sdk-algorithms--simulations)
 [![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-57606A?style=flat)](https://github.com/sabneet-bains/Nonlinear-Dynamics#-nonlinear-dynamics--simulation--visualization-suite)
-[![Research Resume](https://img.shields.io/badge/Research%20Resume-2DA44E?style=flat)](https://sabneet-bains.github.io/assets/resume.pdf)
+[![Research Engineering](https://img.shields.io/badge/Research%20Resume-2DA44E?style=flat)](https://sabneet-bains.github.io/assets/resume.pdf)
 
 </div>
 
